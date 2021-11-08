@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pertemuan 9</string>
+    <string name="hyperlink">Don\'t have an account?</string>
+    <string-array name="list_bahasa">
+        <item>Indonesia</item>
+        <item>English</item>
+        <item>Japan</item>
+        <item>German</item>
+    </string-array>
+</resources>
